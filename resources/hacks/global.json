@@ -81,7 +81,7 @@
         "desc": "Changes the speed of the game and audio.",
         "type": "float",
         "min": 0.01,
-        "max": 10,
+        "max": 10000,
         "default": 1,
         "save": false
     },
